@@ -9,10 +9,8 @@ acestream://9e4852c4716fc0d152e41e75d5d5e750552b6dd7
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1,espn
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:1,sport 1
-acestream://491788c168f2083172a7b4c8b8a692bfd8e8364b
-#EXTINF:1, digi 1
-acestream://c86789ad78c1859f3a0e649f57138e6c8248ef27
+#EXTINF:1,cs 1
+acestream://c86789ad78c1859f3a0e649f57138e6c8248ef35
 #EXTINF:1,digi 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:1,sky football
