@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:0,bein 1
+#EXTINF:-1,bein 1
 acestream://118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:0,bein2
+#EXTINF:-1,bein2
 acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:0,bein 3
+#EXTINF:-1,bein 3
 acestream://9e4852c4716fc0d152e41e75d5d5e750552b6dd7
-#EXTINF:0,tnt 1
+#EXTINF:-1,eleven 2
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:0,canal
+#EXTINF:-1,espn
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:1,sport 1
+acestream://491788c168f2083172a7b4c8b8a692bfd8e8364b
+#EXTINF:1, digi 1
+acestream://c86789ad78c1859f3a0e649f57138e6c8248ef27
+#EXTINF:1,digi 2
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+
+#EXTINF:-1,canal
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+
